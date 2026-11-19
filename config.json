@@ -1,9 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "Avengers: Doomsday",
-  "requested_date": "20261217",
-  "venue_code": "RAKK",
-  "venue_label": "Rakki Cinemas: OMR, Kelambakkam",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00526287/{date}",
-  "min_references": 10
+  "movie": "Ramayana",
+  "requested_date": "20261223",
+  "venue_code": "PVPU",
+  "venue_label": "PVR IMAX with Laser, Priya: Delhi",
+  "url_template": "https://in.bookmyshow.com/movies/delhi/ramayana/buytickets/ET00451914/{date}"
 }
