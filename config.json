@@ -1,7 +1,7 @@
 {
   "detector": "venue_date",
   "movie": "Ramayana",
-  "requested_date": "20261223",
+  "requested_date": "20261123",
   "venue_code": "PVPU",
   "venue_label": "PVR IMAX with Laser, Priya: Delhi",
   "url_template": "https://in.bookmyshow.com/movies/delhi/ramayana/buytickets/ET00451914/{date}"
